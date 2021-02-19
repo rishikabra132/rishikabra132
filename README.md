@@ -1,5 +1,5 @@
 ### Hi there 👋
-1. I'm a recently converted Product Manager.
-2. I like web development.
-3. I aspire to build somehing significant.
-4. I like video games, music and football.
+- I'm a Product Manager.
+- I like Web development.
+- I aspire to build significant applications that help people.
+- I like video games, music and football.
