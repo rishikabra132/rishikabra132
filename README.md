@@ -10,7 +10,7 @@
 
 - I like video games, music and football.
 
-- How to reach me **rishikabra132@gmail.com**
+- reach me at **rishikabra132@gmail.com**
 
 <h3 align="left">Github Analytics</h3>
 
