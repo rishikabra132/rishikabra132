@@ -14,5 +14,4 @@
 
 <h3 align="left">Github Analytics</h3>
 
-![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishikabra132&count_private=true&theme=tokyonight)
 ![Rishi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishikabra132&theme=tokyonight)
