@@ -10,8 +10,4 @@
 
 - I like video games, music and football.
 
-- reach me at **rishikabra132@gmail.com**
-
-<h3 align="left">Github Analytics</h3>
-
-![Rishi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishikabra132&theme=tokyonight)
+- Reach me at **rishikabra132@gmail.com**
